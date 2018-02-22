@@ -1,0 +1,756 @@
+<top lang='en' type='opinion'>
+
+<num> 001 </num> 
+
+<title> paying for music </title> 
+
+<desc> When do people actually pay for music? </desc> 
+
+<narr> Today, quite a lot of music is free. There are several services
+like bit torrent, pandora, mu-torrent that permit free download of
+music. Relevant conversations should reflect people's opinions about
+paying for music. </narr> 
+
+</top>
+
+<top lang='en' type='opinion'>
+
+<num> 002 </num> 
+
+<title> new Xbox release </title> 
+
+<desc> How is the new Xbox different from the older versions? </desc> 
+
+<narr> Xbox is a video gaming brand owned by Microsoft. It represents
+a series of video game consoles. Xbox One has been released recently
+succeeding its former versions - Xbox and Xbox 360. Relevant
+conversations should contain discussions of Xbox One, including
+discussions of what new features it has compared to older
+models. </narr> 
+
+</top>
+
+<top lang='en' type='opinion'>
+
+<num> 003 </num> 
+
+<title> Bruins </title> 
+
+<desc> Do people like the Boston Bruins?  </desc> 
+
+<narr> To be relevant, conversations should be about Boston Bruins, a
+sports team. The discussion could be how the team performs, their
+standing, recent matches played by the team, scores and other such
+things.  </narr> 
+
+</top>
+ 
+<top lang='en' type='experience'>
+
+<num> 004 </num> 
+
+<title> living with parents </title> 
+
+<desc> What are the pros and cons of living with parents? </desc> 
+
+<narr> People need to choose whether they should continue living with
+their parents after a certain age or when they have sufficient
+earnings to become financially independent. Relevant conversations
+should include discussions of what it is like to live with parents
+compared to living away from home.  </narr> 
+
+</top>
+
+<top lang='en' type='experience'>
+
+<num> 005 </num> 
+
+<title> fun on weekends </title> 
+
+<desc> What do people do for fun on weekends? </desc> 
+
+<narr> Relevant conversations should describe real experiences of
+people spending their weekends doing exciting activities, or
+discussing their weekend plans for having fun. They should contain an
+element of recreation in them, that is more than just doing away with
+routine chores. Weekends could also include long weekends with a
+holiday following or preceding the usual weekend days (Saturday and
+Sunday in the USA). </narr> 
+
+</top>
+
+<top lang='en' type='opinion'>
+
+<num> 006 </num> 
+
+<title> Fox News conservative </title> 
+
+<desc> What do people think of the conservative bias often attributed
+to Fox News? </desc> 
+
+<narr> Conversations about whether Fox News is biased towards a
+conservative point of view are relevant.  </narr> 
+
+</top>
+
+<top lang='en' type='experience'>
+
+<num> 007 </num> 
+
+<title> fix noisy earphones </title> 
+
+<desc>  How can you fix noisy earphones?  </desc> 
+
+<narr> Conversations that include useful information about or
+tips for fixing noisy earphones would be relevant. </narr> 
+
+</top>
+
+<top lang='en' type='experience'>
+
+<num> 008 </num> 
+
+<title> disc golf </title> 
+
+<desc> Where and how do people play disc golf? </desc> 
+
+<narr> Disc golf has gained popularity recently. It is played with a
+frisbee, but with rules similar to those of golf.  Relevant
+conversations should contain information about how the game is played,
+indications of places where the game is played, or information about
+groups who play it. </narr> 
+
+</top>
+
+<top lang='en' type='experience'>
+
+<num> 009 </num> 
+
+<title> dealing with stress </title> 
+
+<desc> What are some helpful things that people do when they are
+stressed?  </desc> 
+
+<narr> Relevant conversations should include information about dealing
+with stress that is based on real situations in which people have gone
+through some stressful experience due to work, courses, family
+pressures, health, financial difficulties or similar
+situations. </narr> 
+
+</top>
+
+<top lang='en' type='experience'>
+
+<num> 010 </num> 
+
+<title> surprise birthday party </title> 
+
+<desc> How do people plan surprise parties for their friends or
+family? </desc> 
+
+<narr> To be relevant, conversations should contain instances of
+people conversing about planning a surprise birthday
+party. Descriptions of actual surprise parties are relevant only if
+there is mention of the planning. </narr> 
+
+</top>
+
+<top lang='en' type='behavior'>
+
+<num> 011 </num> 
+
+<title> birthday ideas </title> 
+
+<desc> How do people spend their birthday? </desc> 
+
+<narr> Relevant conversations should contain indications of what a
+person did on his or her birthday. </narr> 
+
+</top>
+
+<top lang='en' type='behavior'>
+
+<num> 012 </num> 
+
+<title> disobeying rules </title> 
+
+<desc> When and why do people break rules? </desc> 
+
+<narr>  There are lots of instances in which people break rules of one
+kind or another. For example, lots of people jaywalk even though it is
+illegal to do so. Relevant conversations should describe situations in
+which people broke a legal rule. </narr> 
+
+</top>
+
+<top lang='en' type='experience'>
+
+<num> 013 </num> 
+
+<title> motivation for working out </title> 
+
+<desc> What motivates people to work out? </desc> 
+
+<narr> Relevant conversations should describe reasons why people were
+motivated to exercise. This workout could be going to a gym, playing a
+sport, going out for a jog, or any similar activity. Relevant
+conversations may address the benefits of exercise generally, or they
+may indicate beneficial results from specific workout sessions.
+</narr> 
+
+</top>
+
+<top lang='en' type='opinion'>
+
+<num> 014 </num> 
+
+<title> Nordstrom closings </title> 
+
+<desc> What are people's reactions to the closing of Nordstrom's
+stores?  </desc> 
+
+<narr> Relevant conversations will include people discussing the
+recent closure of one or more Nordstrom stores. This may include
+factual information, speculation as to the reasons for the closure, or
+remarks on effects of the closure.  </narr> 
+
+</top>
+
+<top lang='en' type='opinion'>
+
+<num> 015 </num> 
+
+<title> taking time off </title> 
+
+<desc> In what situations do people take time off from work? </desc> 
+
+<narr> Relevant conversations should include discussions about taking
+off from work. This may include planned holidays, sick days, so-called
+"personal days", or emergencies that require arriving late or
+departing early from work. </narr> 
+
+</top>
+
+<top lang='en' type='knowledge'>
+
+<num> 016 </num> 
+
+<title> Philly bars </title> 
+
+<desc> What are some good bars in Philadelphia? </desc> 
+
+<narr> Relevant conversations should mention one or more positive
+aspects of at least one identifiable commercial establishment in
+Philadelphia or its suburbs in which drinking alcohol is a primary
+activity in a positive way. Establishments such as restaurants or
+sports stadiums in which drinking is a secondary activity are not
+themselves bars, but they may contain one or more bars. Alcohol must
+be served (Starbucks is not a bar), although it is not necessary that
+the participants in the conversation actually consumed alcohol. It is
+sufficient that the conversation mentions at least one positive aspect
+of an establishment; the overall tone of the discussion need not be
+positive toward the establishment for a conversation to be
+relevant. The Philadelphia suburbs include towns in both Pennsylvania
+and New Jersey from which people routinely commute to work in
+Philadelphia, but they do not include any places in Delaware. </narr> 
+
+</top>
+
+<top lang='en' type='experience'>
+
+<num> 017 </num> 
+
+<title> quit smoking </title> 
+
+<desc> How do people go about quitting smoking?  </desc> 
+
+<narr> What have people done to quit smoking? How do they feel after
+quitting? Conversations about such things are relevant.  </narr> 
+
+</top>
+
+<top lang='en' type='opinion'>
+
+<num> 018 </num> 
+
+<title> wildlife extinction </title> 
+
+<desc> How concerned are people about extinction of wildlife species?
+ </desc> 
+
+<narr> Instances in which people have expressed concerns over wildlife
+extinction. To be relevant, there should be some discussion in which
+people talk about extinction of certain rare species, the effect on
+ecological balance, the need to prevent this, steps that could be
+taken to avoid extinction of animals, or similar topics.  </narr> 
+
+</top>
+
+<top lang='en' type='behavior'>
+
+<num> 019 </num> 
+
+<title> password sharing </title> 
+
+<desc> In what situations do people share passwords? </desc> 
+
+<narr> Relevant conversations should contain instances in which people
+share passwords such as for wifi, netflix, any proprietary software or
+any other such service.  </narr> 
+
+</top>
+
+<top lang='en' type='behavior'> 
+
+<num> 020 </num>  
+
+<title> plagiarism at school </title> 
+
+<desc> In what situations do people deliberately commit academic
+plagiarism?  </desc>  
+
+<narr>  Copying homework, using online resources without proper
+citation and such things constitute academic plagiarism. Find
+instances in which people express an intention to commit plagiarism or
+admit they have committed plagiarism.  </narr>  
+
+</top>
+
+<top lang='en' type='behavior'>
+
+<num> 021 </num> 
+
+<title> recycling wastes </title> 
+
+<desc> Do people want to recycle?  </desc> 
+
+<narr> In US, recycling bins are found in many places. But do people
+actually care enough to recycle the stuff that can be recycled?
+Relevant conversations contain instances and discussions about
+recycling waste and its importance. </narr> 
+
+</top>
+
+<top lang='en' type='knowledge'>
+
+<num> 016 </num> 
+
+<title> Philly bars </title> 
+
+<desc> What are some good bars that serve alcohol in Philadelphia? </desc> 
+
+<narr> Relevant conversations should mention one or more positive
+aspects of at least one identifiable commercial establishment in
+Philadelphia or its suburbs in which drinking alcohol is a primary
+activity in a positive way. Establishments such as restaurants or
+sports stadiums in which drinking is a secondary activity are not
+themselves bars, but they may contain one or more bars. Alcohol must
+be served (Starbucks is not a bar), although it is not necessary that
+the participants in the conversation actually consumed alcohol. It is
+sufficient that the conversation mentions at least one positive aspect
+of an establishment; the overall tone of the discussion need not be
+positive toward the establishment for a conversation to be
+relevant. The Philadelphia suburbs include towns in both Pennsylvania
+and New Jersey from which people routinely commute to work in
+Philadelphia, but they do not include any places in Delaware. </narr> 
+
+</top>
+
+<top lang="en" type="opinion">
+
+<num> 023 </num>
+
+<title> cherry blossoms DC </title>
+
+<desc> How do people like the National Cherry Blossom festival in
+Washington, DC? </desc>
+
+<narr> The National Cherry Blossom festival is held in March or April
+every year at Washington, DC. To be relevant, a conversation would
+contain discussions of the Cherry Blossom festival in Washington,
+DC. </narr>
+
+</top>
+
+<top lang="en" type="experience">
+
+<num> 024 </num>
+
+<title> pet care </title>
+
+<desc> How do people care for their pets? </desc>
+
+<narr> Relevant conversations would have information about caring for
+pet animals. They might deal with cleaning, diet, exercise, veterinary
+care, or similar things </narr>
+
+</top>
+
+<top lang="en" type="experience">
+
+<num> 026 </num>
+
+<title> buying clothes online </title>
+
+<desc> What are people's experiences buying clothes online? </desc>
+
+<narr> Buying many things online is becoming increasingly common, but
+some people are reluctant to buy clothes online. What experience have
+people had with buying clothes online?  Conversations that describe
+actual experiences would be relevant, even if they are the experiences
+of other people. Conversations in which people only express opinions
+without describing any real experiences would not be relevant. </narr>
+
+</top>
+
+<top lang="en" type="behavior">
+
+<num> 032 </num>
+
+<title> vegan diet balance </title>
+
+<desc> How do vegans balance their diet? </desc>
+
+<narr> What food items do vegans include in their diet in order to
+make it balanced and healthy? Do they take additional supplements
+(such as vitamin pills)? </narr>
+
+</top>
+
+<top lang="en" type="opinion">
+
+<num> 034 </num>
+
+<title> farmers markets </title>
+
+<desc> What do people think about farmers' markets? </desc>
+
+<narr> Farmers' markets feature a retail market where food items are
+sold directly by farmers to consumers. To be relevant, conversations
+would contain people expressing their opinions on farmers'
+markets. </narr>
+
+</top>
+
+<top lang="en" type="experience">
+
+<num> 036 </num>
+
+<title> selling on eBay </title>
+
+<desc> What experience do people have with selling on eBay? </desc>
+
+<narr> Relevant conversations would contain instances in which people
+discuss different details selling things on eBay. This might, for
+example, include what was made available for sale, how those things
+were marketed, or opinions grounded in experience about whether
+selling on eBay is generally successful and profitable. </narr>
+
+</top>
+
+<top lang="en" type="opinion">
+
+<num> 037 </num>
+
+<title> U.S. gas prices </title>
+
+<desc> How do people explain changes in U.S. automobile gasoline
+prices? </desc>
+
+<narr> Conversations that suggest reasons why U.S. gasoline prices
+fluctuate would be relevant, regardless of whether those suggested
+reasons have a factual basis.  Conversations about gas prices in other
+countries would not be relevant. </narr>
+
+</top>
+
+<top lang="en" type="experience">
+
+<num>039</num>
+
+<title> college tuition planning </title>
+
+<desc> How do students plan to pay their college tuition? </desc>
+
+<narr> Tuition is the money that is paid to an educational institution
+for enrollment and registration in courses. It is typically paid at
+the beginning of each semester. Conversations that describe financial
+planning by parents or students for paying college tuition fees would
+be relevant. These discussions might address saving money by earning
+income and managing of current spending, the use of tax advantaged
+college savings plans, obtaining help from family members, or similar
+things.  </narr>
+
+</top>
+
+<top lang="en" type="experience">
+
+<num> 041 </num>
+
+<title> airport security <title>
+
+<desc> What is it like to go through airport security in the United
+States? </desc>
+
+<narr> A relevant conversation would contain discussions of actual
+experiences with airport security. Discussion topics might include how
+long it took to pass through the security in a specific airport, what
+procedures were involved, what alternatives were available, or what
+problems were encountered. The experience need not be from the person
+who is reporting it; second-hand reports of actual experiences would
+also be relevant. Comparisons to airport security in other countries
+would be relevant only if specific information is provided about
+airport security in the USA as a part of the conversation. Information
+from the public sources that does not involve reports of actual
+experiences would not be relevant. </narr>
+
+</top>
+
+<top lang="en" type="opinion">
+
+<num> 042 </num>
+
+<title> public schools </title>
+
+<desc> What do people think about the quality of public schools for
+elementary, middle and secondary school education in the United
+States? </desc>
+
+<narr> To be relevant, conversations should contain opinions about the
+quality of education in the public school system in USA from
+kindergarten though the twelfth grade. To be relevant, the
+conversation must include at least one instance of a mention or
+implication regarding education quality. Conversations that solely
+address schedules, procedures, safety, or other issues not clearly
+related to education quality or that solely address child care,
+pre-school programs, colleges, or universities would not be
+relevant. </narr>
+
+</top>
+
+<top lang="en" type="experience">
+
+<num> 043 </num>
+
+<title> public transport </title>
+
+<desc> When do people prefer to use public transportation? </desc>
+
+<narr> Public surface transportation services such as buses, subways,
+and trains in the United States ranges from good in some places to
+nonexistent in others. Many residents of United States own a car and
+rarely use public transportation; others rely almost exclusively on
+public transportation. Conversations in which people's preferences
+regarding the use of public surface transportation are mentioned, or
+in which those preferences can be inferred from reports of their
+actual use of public transportation, would be relevant. Public
+transportation is intended to mean scheduled overland transportation
+services that are available to all members of the public, whether
+operated by private companies or by government. Neither on-demand road
+transportation services such as taxis or Uber nor common-carrier water
+or air transportation such as ferries or airlines are considered
+public transportation for this purpose. </narr>
+
+</top>
+
+<top lang="en" type="behavior">
+
+<num> 045 </num>
+
+<title> heroic acts </title>
+
+<desc> Find accounts of selfless heroic acts by individuals or groups
+for the benefit of others or for a cause. </desc>
+
+<narr> Relevant conversations will contain a description of specific
+real life acts in which individuals or groups of people displayed
+courage or exceptional selflessness for a greater cause. General
+statements concerning heroic acts would not be relevant. </narr>
+
+</top>
+
+<top lang="en" type="experience">
+
+<num> 047 </num>
+
+<title> parenting regrets </title>
+
+<desc> What are some instances in which parents later regret their
+behavior or actions towards their pre-teen children? </desc>
+
+<narr> Relevant conversations would mention real experiences in which
+one or more participants express regret regarding something that they
+now regard as mistaken behavior when raising their children. These
+regrets might be over specific acts or over general patterns of
+behavior. To be relevant, the children must have been 12 years of age
+or younger at the time of the regretted actions. Regrets by the
+children regarding their parents' actions and actions described by
+others as mistakes would not be relevant unless described and agreed
+with by the parent involved. </narr>
+
+</top>
+
+<top lang="en" type="knowledge">
+
+<num> 050 </num>
+
+<title> comic books </title>
+
+<desc> What are some comic books that people talk about?  </desc>
+
+<narr> Relevant conversations will include people mentioning one or
+more specific comic books. To be relevant, the identity of at least
+one comic book must be discernible, but the name need not be
+explicitly stated. In the case of a series, it is not necessary that a
+specific issue in that series be identified. It does not matter
+whether the comic book has actually been read, but generic references
+to popular comic book characters such as Superman without specific
+reference to their appearance in a comic book would not be
+relevant. </narr>
+
+</top>
+
+<top lang="en" type="behavior">
+
+<num> 051 </num>
+
+<title> texting and driving </title>
+
+<desc> Find real instances in which people texted while they were
+driving. </desc>
+
+<narr> Conversations that contain evidence of people texting or having
+texted while they were driving would be relevant. This could include
+mentions of previously having texted while driving, or it could
+include messages that were clearly sent while driving. For this
+purpose, driving is defined as being the operator of a motor vehicle
+(car, truck, bus, motorcycle, airplane; but not bicycle) with the
+motor operating. Reports of texting while stopped at a traffic light
+would be relevant, even if the motor is temporarily stopped while at
+the light for fuel conversation purposes. </narr>
+
+</top>
+
+<top lang="en" type="opinion">
+
+<num> 054 </num>
+
+<title> Walmart low prices </title>
+
+<desc> What do people believe are the reasons for the low prices
+offered by Walmart stores? </desc>
+
+<narr> Walmart is one of the largest retailer chains in the
+world. Relevant conversations will include indications of about what
+people believe about how it is that Walmart manages to offer its goods
+at low prices. Reports of actual prices, without any indication of how
+those prices were kept low, would not be relevant. </narr>
+
+</top>
+
+<top lang="en" type="behavior">
+
+<num> 055 </num>
+
+<title> hobbies </title>
+
+<desc> What are some examples of people's hobbies? </desc>
+
+<narr> Relevant conversations would include some mention of some hobby
+engaged in by some person. The person with the mentioned hobby need
+not be a participant in the conversation. To be a hobby, the activity
+must be unpaid and unreimbursed and engaged in with enjoyment as a
+substantial objective. For example, exercise might be a hobby if
+enjoyment is indicated in some way, but it would not be a hobby if
+engaged in solely for health reasons. Note that the same activity that
+is a hobby for one person (e.g., building homes as a charitable
+activity) might be paid employment for another. </narr>
+
+</top>
+
+<top lang="en" type="experience">
+
+<num> 056 </num>
+
+<title> Amtrak train service </title>
+
+<desc> What do people think about Amtrak train service? </desc>
+
+<narr> Amtrak is the principal operator of long-distance passenger
+trains in the United States. Relevant conversations would include
+mention of actual experiences with the Amtrak train service, opinions
+about the utility of the service to specific people based on its route
+structure and schedules and similar details. All types of experiences
+with the Amtrak would be relevant, including such aspects of Amtrak
+operators as call centers, ticket offices, on board service,
+announcements on board and in stations, cleanliness, and service
+disruptions. </narr>
+
+</top>
+
+<top lang="en" type="experience">
+
+<num> 057 </num>
+
+<title> US unemployment </title>
+
+<desc> What are the actual experiences of people who are unemployed in
+the United States? </desc>
+
+<narr> Relevant conversations will contain accounts of experiences
+related to unemployment by at least one person who was a resident of
+the United States at the time. Experiences may be specific or general,
+and they may involve physical activities or feelings. To be relevant,
+the experience must be clearly related to unemployment in some way;
+mere mention of some activity of daily living (e.g., sleep) by a
+person who is unemployed would not be relevant unless something about
+that experience was clearly affected by unemployment status. All
+people who are receiving unemployment compensation are considered to
+be unemployed for the purpose of this question. In addition, people
+who are not currently employed but who wish to be employed are
+considered to be unemployed. Retired people are not
+considered to be unemployed unless they are now actively seeking
+reemployment.  </narr>
+
+</top>
+
+<top lang="en" type="behavior">
+
+<num> 061 </num>
+
+<title> junk food </title>
+
+<desc> Which food items are thought of as junk food?  </desc>
+
+<narr> Food that is unhealthy, highly processed or containing high
+levels of calories might be described as junk food. Relevant
+conversations would identify one or more types of food as "junk food,"
+either using that term or some other equally clear indication (e.g.,
+by mention of "empty calories"). The food might be described
+generically (e.g., candy) or specifically (e.g., Snickers). </narr>
+
+</top>
+
+<top lang="en" type="experience">
+
+<num> 062 </num>
+
+<title> online TV </title>
+
+<desc> When do people prefer watching programs on their computer
+rather than on their TV? </desc>
+
+<narr> With the advent of streaming video services such as Netflix,
+some people are "cutting the cord" and moving to Internet-only
+connectivity for all of their media services, including
+television. Others sometimes watch television and sometimes watch
+programs on streaming video. Relevant conversations would reflect
+people's preferences for when or where they would choose one means of
+video delivery over another, or other information about how they would
+make that choice. Both actual experiences and expectations would be
+relevant, and both first-hand reports of personal experiences or
+expectations and second-hand reports of personal experiences or
+expectations of others would be relevant. </narr>
+
+</top>
+
